@@ -2,6 +2,7 @@
 title: Bicycle and Dimed
 email: adamnate@gmail.com
 description: On (Not) Getting By on the Right in America.
+baseurl: '/bicycleanddimed'
 url: "http://timesize.site" # the base hostname & protocol for your site
 twitter_username: timesize
 paginate: 3
